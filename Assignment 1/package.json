@@ -1,0 +1,26 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "**Testing Steps:**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2",
+    "nodemon": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyashs98/Skill_lab_assignment_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shreyashs98/Skill_lab_assignment_1/issues"
+  },
+  "homepage": "https://github.com/Shreyashs98/Skill_lab_assignment_1#readme"
+}
